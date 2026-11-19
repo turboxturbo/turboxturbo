@@ -25,6 +25,11 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,postgres,docker,git,github,visualstudio,rider&theme=light" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=turboxturbo&bg_color=0D1117&color=8957E5&line=6036B4&point=8957E5&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=turboxturbo&bg_color=FFFFFF&color=8957E5&line=6036B4&point=8957E5&area=true&hide_border=true" />
+</picture>
+
 ### Connect
 
 <p align="center">
