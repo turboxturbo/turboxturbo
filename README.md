@@ -30,6 +30,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=turboxturbo&bg_color=FFFFFF&color=8957E5&line=6036B4&point=8957E5&area=true&hide_border=true" />
 </picture>
 
+### Contributions
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/8957E5/turboxturbo"
+    alt="Said's GitHub Contributions"
+  />
+</p>
+
 ### Connect
 
 <p align="center">
