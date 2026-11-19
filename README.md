@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there! I'm Said</h1>
+<h1 align="center"><i>Hey, I'm Said</i></h1>
 
 <p align="center">
   <b>Software Developer · Backend Engineering</b>
