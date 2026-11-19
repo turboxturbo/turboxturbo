@@ -12,13 +12,6 @@
 
 ---
 
-### About Me
-
-- 🎓 Software Development Student
-- 💻 Focused on Backend Development
-- 🧠 Exploring Python & Data Science
-- 🌱 Always learning and improving
-
 ### Tech Stack
 
 <p align="center">
