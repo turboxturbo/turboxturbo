@@ -18,15 +18,6 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,postgres,docker,git,github,visualstudio,rider&theme=light" />
 </p>
 
-### Contributions
-
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/8957E5/turboxturbo"
-    alt="Said's GitHub Contributions"
-  />
-</p>
-
 ### Connect
 
 <p align="center">
