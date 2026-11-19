@@ -34,16 +34,21 @@
   />
 </p>
 
+
 ### Connect
 
-<p align="center">
-  <a href="https://github.com/turboxturbo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://github.com/turboxturbo">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://t.me/YOUR_USERNAME">
+        <img src="https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <a href="https://t.me/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
