@@ -30,7 +30,8 @@
 <p align="center">
   <img
     src="https://ghchart.rshah.org/8957E5/turboxturbo"
-    alt="Said's GitHub Contributions"
+    alt="GitHub Contributions"
+    width="1000"
   />
 </p>
 
