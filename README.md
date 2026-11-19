@@ -27,7 +27,6 @@
   />
 </p>
 
-
 ### Connect
 
 <p align="center">
@@ -35,7 +34,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/YOUR_USERNAME">
+  <a href="https://t.me/mistergenos">
     <img src="https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
