@@ -31,7 +31,7 @@
   <img
     src="https://ghchart.rshah.org/8957E5/turboxturbo"
     alt="GitHub Contributions"
-    width="1000"
+    width="800"
   />
 </p>
 
